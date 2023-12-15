@@ -36,6 +36,10 @@ Graduated Web Developer & Graphic Designer
 
 <div width="100%" align="center"><a href="https://github.com/devfouadbarkaoui/FOOD-DONATION-UI-LOGIN-PAGE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devfouadbarkaoui&repo=FOOD-DONATION-UI-LOGIN-PAGE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+> [!NOTE]
+> THE ENTIRETY OF COMPLETED PROJECTS , ENCOMPASSING RESPONSIVE LAYOUT , IS NOW ACCESSIBLE
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
@@ -43,3 +47,12 @@ Graduated Web Developer & Graphic Designer
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/fouadbarkaoui"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+
+
+
+
+
+
+
+
